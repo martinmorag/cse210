@@ -7,7 +7,7 @@ class Program
         Random rnd = new Random();
         
         Reference reference = new Reference("Proverbs", "3", "5");
-        Scripture scripture = new Scripture("Trust in the Lord with all thine heart; and lean not unto thine own understanding TEST.");
+        Scripture scripture = new Scripture("Trust in the Lord with all thine heart; and lean not unto thine own understanding.");
         
 
         bool display()
