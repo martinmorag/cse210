@@ -4,6 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Learning04 World!");
+
+        Writing option3 = new Writing("Mark", "Literature", "The Book");
+        Console.WriteLine(option3.GetWritingInformation());
     }
 }
